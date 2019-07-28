@@ -1,0 +1,101 @@
+[0m[[0m[0mdebug[0m] [0m[0mExecuting Native docker build --force-rm -t scala-try-dockerize-custom:0.1 .[0m
+[0m[[0m[0mdebug[0m] [0m[0mWorking directory /Users/tozastation/go/src/github.com/tozastation/Scala-Try-Dockerize-Custom/target/docker/stage[0m
+[0m[[0m[0minfo[0m] [0m[0m#2 [internal] load .dockerignore[0m
+[0m[[0m[0minfo[0m] [0m[0m#2       digest: sha256:948c34cf328a0715154a8d2c9d75d5df8f89e1de5a51eb433834539c368602bc[0m
+[0m[[0m[0minfo[0m] [0m[0m#2         name: "[internal] load .dockerignore"[0m
+[0m[[0m[0minfo[0m] [0m[0m#2      started: 2019-07-26 07:42:08.4270424 +0000 UTC[0m
+[0m[[0m[0minfo[0m] [0m[0m#2    completed: 2019-07-26 07:42:08.4977595 +0000 UTC[0m
+[0m[[0m[0minfo[0m] [0m[0m#2     duration: 70.7171ms[0m
+[0m[[0m[0minfo[0m] [0m[0m#2 transferring context: 2B 0.0s done[0m
+[0m[[0m[0minfo[0m] [0m[0m#1 [internal] load build definition from Dockerfile[0m
+[0m[[0m[0minfo[0m] [0m[0m#1       digest: sha256:1acae178350aff8e7ee77a54f8a6b4abf7d668976bf12fef787b143aeab9338c[0m
+[0m[[0m[0minfo[0m] [0m[0m#1         name: "[internal] load build definition from Dockerfile"[0m
+[0m[[0m[0minfo[0m] [0m[0m#1      started: 2019-07-26 07:42:08.426415 +0000 UTC[0m
+[0m[[0m[0minfo[0m] [0m[0m#1 transferring dockerfile: 767B 0.0s done[0m
+[0m[[0m[0minfo[0m] [0m[0m#1    completed: 2019-07-26 07:42:08.5363702 +0000 UTC[0m
+[0m[[0m[0minfo[0m] [0m[0m#1     duration: 109.9552ms[0m
+[0m[[0m[0minfo[0m] [0m[0m#3 [internal] load metadata for docker.io/library/java:8-jdk-alpine[0m
+[0m[[0m[0minfo[0m] [0m[0m#3       digest: sha256:3601af91695cb4b6101b77a3460eaef7481c0448b32b05bf4220e07364391a1e[0m
+[0m[[0m[0minfo[0m] [0m[0m#3         name: "[internal] load metadata for docker.io/library/java:8-jdk-alpine"[0m
+[0m[[0m[0minfo[0m] [0m[0m#3      started: 2019-07-26 07:42:08.6011298 +0000 UTC[0m
+[0m[[0m[0minfo[0m] [0m[0m#3      started: 2019-07-26 07:42:08.6049274 +0000 UTC[0m
+[0m[[0m[0minfo[0m] [0m[0m#3    completed: 2019-07-26 07:42:11.5030563 +0000 UTC[0m
+[0m[[0m[0minfo[0m] [0m[0m#3     duration: 2.8981289s[0m
+[0m[[0m[0minfo[0m] [0m[0m#3 [internal] load metadata for docker.io/library/java:8-jdk-alpine[0m
+[0m[[0m[0minfo[0m] [0m[0m#3      started: 2019-07-26 07:42:08.6011298 +0000 UTC[0m
+[0m[[0m[0minfo[0m] [0m[0m#3    completed: 2019-07-26 07:42:11.5037649 +0000 UTC[0m
+[0m[[0m[0minfo[0m] [0m[0m#3     duration: 2.9026351s[0m
+[0m[[0m[0minfo[0m] [0m[0m#7 [internal] load build context[0m
+[0m[[0m[0minfo[0m] [0m[0m#7       digest: sha256:cb16eb81764407740b455903f59ea2510186ad3827a4436e37efa4c7d12482d9[0m
+[0m[[0m[0minfo[0m] [0m[0m#7         name: "[internal] load build context"[0m
+[0m[[0m[0minfo[0m] [0m[0m#7      started: 2019-07-26 07:42:11.5098108 +0000 UTC[0m
+[0m[[0m[0minfo[0m] [0m[0m#7    completed: 2019-07-26 07:42:11.5101534 +0000 UTC[0m
+[0m[[0m[0minfo[0m] [0m[0m#7     duration: 342.6µs[0m
+[0m[[0m[0minfo[0m] [0m[0m#7      started: 2019-07-26 07:42:11.518078 +0000 UTC[0m
+[0m[[0m[0minfo[0m] [0m[0m#7    completed: 2019-07-26 07:42:11.586546 +0000 UTC[0m
+[0m[[0m[0minfo[0m] [0m[0m#7     duration: 68.468ms[0m
+[0m[[0m[0minfo[0m] [0m[0m#7 transferring context: 69.80kB 0.0s done[0m
+[0m[[0m[0minfo[0m] [0m[0m#4 [internal] helper image for file operations[0m
+[0m[[0m[0minfo[0m] [0m[0m#4       digest: sha256:e4c43493b1bb2320466c52248e886014710025b273f224bb96a23b8fb7a1d193[0m
+[0m[[0m[0minfo[0m] [0m[0m#4         name: "[internal] helper image for file operations"[0m
+[0m[[0m[0minfo[0m] [0m[0m#4      started: 2019-07-26 07:42:11.5144078 +0000 UTC[0m
+[0m[[0m[0minfo[0m] [0m[0m#4    completed: 2019-07-26 07:42:11.5149603 +0000 UTC[0m
+[0m[[0m[0minfo[0m] [0m[0m#4     duration: 552.5µs[0m
+[0m[[0m[0minfo[0m] [0m[0m#5 [stage0 1/4] FROM docker.io/library/java:8-jdk-alpine@sha256:d49bf8c4467...[0m
+[0m[[0m[0minfo[0m] [0m[0m#5       digest: sha256:fd00ed71cdc48b085b77a9f348ef6d2ccf1b0c5a36f7bac329b050b6d3c0f40d[0m
+[0m[[0m[0minfo[0m] [0m[0m#5         name: "[stage0 1/4] FROM docker.io/library/java:8-jdk-alpine@sha256:d49bf8c44670834d3dade17f8b84d709e7db47f1887f671a0e098bafa9bae49f"[0m
+[0m[[0m[0minfo[0m] [0m[0m#5      started: 2019-07-26 07:42:11.5152814 +0000 UTC[0m
+[0m[[0m[0minfo[0m] [0m[0m#5    completed: 2019-07-26 07:42:11.5155709 +0000 UTC[0m
+[0m[[0m[0minfo[0m] [0m[0m#5     duration: 289.5µs[0m
+[0m[[0m[0minfo[0m] [0m[0m#5 [stage0 1/4] FROM docker.io/library/java:8-jdk-alpine@sha256:d49bf8c4467...[0m
+[0m[[0m[0minfo[0m] [0m[0m#5      started: 2019-07-26 07:42:11.6347871 +0000 UTC[0m
+[0m[[0m[0minfo[0m] [0m[0m#5    completed: 2019-07-26 07:42:11.6349196 +0000 UTC[0m
+[0m[[0m[0minfo[0m] [0m[0m#5     duration: 132.5µs[0m
+[0m[[0m[0minfo[0m] [0m[0m#5       cached: true[0m
+[0m[[0m[0minfo[0m] [0m[0m#4 [internal] helper image for file operations[0m
+[0m[[0m[0minfo[0m] [0m[0m#4      started: 2019-07-26 07:42:11.6370842 +0000 UTC[0m
+[0m[[0m[0minfo[0m] [0m[0m#4    completed: 2019-07-26 07:42:11.637574 +0000 UTC[0m
+[0m[[0m[0minfo[0m] [0m[0m#4     duration: 489.8µs[0m
+[0m[[0m[0minfo[0m] [0m[0m#4       cached: true[0m
+[0m[[0m[0minfo[0m] [0m[0m#8 [stage0 2/4] COPY opt /opt[0m
+[0m[[0m[0minfo[0m] [0m[0m#8       digest: sha256:52b1372a00ee9529b31a750eed3724781885b01e5caab0359304c3cbb9b63cc5[0m
+[0m[[0m[0minfo[0m] [0m[0m#8         name: "[stage0 2/4] COPY opt /opt"[0m
+[0m[[0m[0minfo[0m] [0m[0m#8      started: 2019-07-26 07:42:11.6377999 +0000 UTC[0m
+[0m[[0m[0minfo[0m] [0m[0m#8    completed: 2019-07-26 07:42:12.3764959 +0000 UTC[0m
+[0m[[0m[0minfo[0m] [0m[0m#8     duration: 738.696ms[0m
+[0m[[0m[0minfo[0m] [0m[0m#9 [stage0 3/4] RUN ["chmod", "-R", "u=rX,g=rX", "/opt/docker"][0m
+[0m[[0m[0minfo[0m] [0m[0m#9       digest: sha256:c820b2bd836e75d28aaca514d5a9987f7bd18fee3c37972cd4d8f7bf4c5a3176[0m
+[0m[[0m[0minfo[0m] [0m[0m#9         name: "[stage0 3/4] RUN [\"chmod\", \"-R\", \"u=rX,g=rX\", \"/opt/docker\"]"[0m
+[0m[[0m[0minfo[0m] [0m[0m#9      started: 2019-07-26 07:42:12.3854247 +0000 UTC[0m
+[0m[[0m[0minfo[0m] [0m[0m#9    completed: 2019-07-26 07:42:13.8872651 +0000 UTC[0m
+[0m[[0m[0minfo[0m] [0m[0m#9     duration: 1.5018404s[0m
+[0m[[0m[0minfo[0m] [0m[0m#10 [stage0 4/4] RUN ["chmod", "u+x,g+x", "/opt/docker/bin/scala-try-dockeri...[0m
+[0m[[0m[0minfo[0m] [0m[0m#10       digest: sha256:19713eb9c472c098d483beb2e1b291baf138ff44253f073de668fde6665cc6bc[0m
+[0m[[0m[0minfo[0m] [0m[0m#10         name: "[stage0 4/4] RUN [\"chmod\", \"u+x,g+x\", \"/opt/docker/bin/scala-try-dockerize-custom\"]"[0m
+[0m[[0m[0minfo[0m] [0m[0m#10      started: 2019-07-26 07:42:13.8923934 +0000 UTC[0m
+[0m[[0m[0minfo[0m] [0m[0m#10    completed: 2019-07-26 07:42:15.2705581 +0000 UTC[0m
+[0m[[0m[0minfo[0m] [0m[0m#10     duration: 1.3781647s[0m
+[0m[[0m[0minfo[0m] [0m[0m#6 [stage-1 2/3] RUN id -u demiourgos728 1>/dev/null 2>&1 || (( getent grou...[0m
+[0m[[0m[0minfo[0m] [0m[0m#6       digest: sha256:985cbfa1be1ec556251970b84cd8fbb71fd442a84a80f04a9b1da32424c90f7a[0m
+[0m[[0m[0minfo[0m] [0m[0m#6         name: "[stage-1 2/3] RUN id -u demiourgos728 1>/dev/null 2>&1 || (( getent group 0 1>/dev/null 2>&1 || ( type groupadd 1>/dev/null 2>&1 && groupadd -g 0 root || addgroup -g 0 -S root )) && ( type useradd 1>/dev/null 2>&1 && useradd --system --create-home --uid 1001 --gid 0 demiourgos728 || adduser -S -u 1001 -G root demiourgos728 ))"[0m
+[0m[[0m[0minfo[0m] [0m[0m#6      started: 2019-07-26 07:42:15.6594184 +0000 UTC[0m
+[0m[[0m[0minfo[0m] [0m[0m#6    completed: 2019-07-26 07:42:15.659634 +0000 UTC[0m
+[0m[[0m[0minfo[0m] [0m[0m#6     duration: 215.6µs[0m
+[0m[[0m[0minfo[0m] [0m[0m#6       cached: true[0m
+[0m[[0m[0minfo[0m] [0m[0m#11 [stage-1 3/3] COPY --from=stage0 --chown=demiourgos728:root /opt/docker ...[0m
+[0m[[0m[0minfo[0m] [0m[0m#11       digest: sha256:8b6466e8188137550137a50193254b416d1bb0a6283c807ffd289c7b4974c126[0m
+[0m[[0m[0minfo[0m] [0m[0m#11         name: "[stage-1 3/3] COPY --from=stage0 --chown=demiourgos728:root /opt/docker /opt/docker"[0m
+[0m[[0m[0minfo[0m] [0m[0m#11      started: 2019-07-26 07:42:15.6613218 +0000 UTC[0m
+[0m[[0m[0minfo[0m] [0m[0m#11    completed: 2019-07-26 07:42:16.8439647 +0000 UTC[0m
+[0m[[0m[0minfo[0m] [0m[0m#11     duration: 1.1826429s[0m
+[0m[[0m[0minfo[0m] [0m[0m#12 exporting to image[0m
+[0m[[0m[0minfo[0m] [0m[0m#12       digest: sha256:51a0543077f08d6ae952195c851e19d8cee0b6b4b99180bf944704b09af2c548[0m
+[0m[[0m[0minfo[0m] [0m[0m#12         name: "exporting to image"[0m
+[0m[[0m[0minfo[0m] [0m[0m#12      started: 2019-07-26 07:42:16.8501045 +0000 UTC[0m
+[0m[[0m[0minfo[0m] [0m[0m#12 exporting layers[0m
+[0m[[0m[0minfo[0m] [0m[0m#12    completed: 2019-07-26 07:42:17.2923123 +0000 UTC[0m
+[0m[[0m[0minfo[0m] [0m[0m#12     duration: 442.2078ms[0m
+[0m[[0m[0minfo[0m] [0m[0m#12 exporting layers 0.4s done[0m
+[0m[[0m[0minfo[0m] [0m[0m#12 writing image sha256:871a65ef0562489377b055690a6dbdd5528ec990fb5b226b5f53865eb49514af done[0m
+[0m[[0m[0minfo[0m] [0m[0m#12 naming to docker.io/library/scala-try-dockerize-custom:0.1 done[0m
+[0m[[0m[0minfo[0m] [0m[0mBuilt image scala-try-dockerize-custom with tags [0.1][0m

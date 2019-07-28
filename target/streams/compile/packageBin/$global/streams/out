@@ -1,0 +1,13 @@
+[0m[[0m[0minfo[0m] [0m[0mPackaging /Users/tozastation/go/src/github.com/tozastation/Scala-Try-Dockerize-Custom/target/scala-2.13/scala-try-dockerize-custom_2.13-0.1.jar ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	SampleServer$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/tozastation/go/src/github.com/tozastation/Scala-Try-Dockerize-Custom/target/scala-2.13/classes/SampleServer$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	JsonSupport.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/tozastation/go/src/github.com/tozastation/Scala-Try-Dockerize-Custom/target/scala-2.13/classes/JsonSupport.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	PingResponse$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/tozastation/go/src/github.com/tozastation/Scala-Try-Dockerize-Custom/target/scala-2.13/classes/PingResponse$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	SampleServer.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/tozastation/go/src/github.com/tozastation/Scala-Try-Dockerize-Custom/target/scala-2.13/classes/SampleServer.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	PingResponse.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/tozastation/go/src/github.com/tozastation/Scala-Try-Dockerize-Custom/target/scala-2.13/classes/PingResponse.class[0m
+[0m[[0m[0minfo[0m] [0m[0mDone packaging.[0m
